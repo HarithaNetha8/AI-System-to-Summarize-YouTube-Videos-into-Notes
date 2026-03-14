@@ -1,7 +1,7 @@
 
 # 🎥 AI System to Summarize YouTube Videos into Notes (Google Colab)
 
-## 📌 Overview
+## 📌project Overview
 
 This project is an **AI-powered YouTube video summarization system** built using **Python and Large Language Models**.
 It runs completely on **Google Colab**, making it easy to use without any local setup.
